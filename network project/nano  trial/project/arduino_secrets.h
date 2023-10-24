@@ -1,0 +1,2 @@
+#define SECRET_SSID "WE_CE18AB"
+#define SECRET_PASS "k8a15001"
